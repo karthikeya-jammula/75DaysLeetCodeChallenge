@@ -6,7 +6,6 @@ class Solution {
             Arrays.sort(ch);
             String k = new String(ch);
             if(!hm.containsKey(k)){
-                // List<String> li = new ArrayList<>();
                 hm.put(k,new ArrayList<>());
             }
             hm.get(k).add(s);
