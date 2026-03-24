@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/karthikeya-jammula/75DaysLeetCodeChallenge/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Divide and Conquer
 |  |
 | ------- |
