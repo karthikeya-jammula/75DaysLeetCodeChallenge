@@ -6,12 +6,8 @@ class Solution {
             if(a[i]<buy){
                 buy=a[i];
             }
-            else{
-                if(a[i]>buy){
-                    mp=Math.max(a[i]-buy,mp);
-                }
+            mp=Math.max(a[i]-buy,mp);
             }
-        }
         return mp;
     }
 }
